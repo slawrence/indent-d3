@@ -1,0 +1,537 @@
+[
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">A method of coordinating and stabilizing the delivery of wind generated power, comprising:<\/span><span class=\"claimFragment\"> using at least one windmill station with a compressor capable of generating compressed air energy;<\/span><span class=\"claimFragment\"> storing said compressed air energy in a pipeline capable of distributing said compressed air energy to a remote location;<\/span><span class=\"claimFragment\"> forecasting or obtaining a forecast of wind speed conditions at said windmill station and using the forecast to predict the wind speed conditions and the resulting wind power availability levels for the upcoming period of time;<\/span><span class=\"claimFragment\"> preparing an energy delivery schedule to the remote location based on the predictions for wind speed and wind power availability levels for the upcoming period of time, taking into account the amount of energy that can be stored and used at a later time;<\/span><span class=\"claimFragment\"> and using the delivery schedule to set a reduced number of constant power output periods during the upcoming period of time, during which time energy delivery levels are substantially constant, despite fluctuations and oscillations in wind speed and wind power availability levels.<\/span>",
+      "claimNumber": 1,
+      "claimNumberAsFiled": 1,
+      "currentClaimNumber": 1,
+      "claimId": 20001,
+      "documentId": 2001,
+      "reexam": true,
+      "status": {
+        "code": "ACTIVE"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "<span class=\"claimFragment\">The method of claim 1, wherein the method comprises at least one feature taken from the group consisting of:<\/span><span class=\"claimFragment\"> a. wherein the upcoming period of time is the next 24 hour period;<\/span><span class=\"claimFragment\"> b. wherein the method comprises setting no more than seven constant power output periods during any given 24 hour period;<\/span><span class=\"claimFragment\"> and c. wherein energy is stored as compressed air energy, and the delivery schedule is set or designed to be set based on the forecasts so that the amount of pressure in storage at any given time will not exceed 600 psig or go below 100 psig.<\/span>",
+          "claimNumber": 2,
+          "claimNumberAsFiled": 2,
+          "currentClaimNumber": 2,
+          "claimId": 20002,
+          "documentId": 2002,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      },
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "<span class=\"claimFragment\">The method of claim 1, wherein the method comprises providing a predetermined number of immediate use stations dedicated to providing energy for immediate use, and a predetermined number of energy storage stations dedicated to storing energy for later use, and determining the ratio between the number of immediate use and energy storage stations that are to be in operation during the upcoming period of time.<\/span>",
+          "claimNumber": 3,
+          "claimNumberAsFiled": 3,
+          "currentClaimNumber": 3,
+          "claimId": 20003,
+          "documentId": 2003,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          {
+            "data": {
+              "watches": {
+                
+              },
+              "claimText": "<span class=\"claimFragment\">The method of claim 3, wherein the delivery schedule takes into account the amount of energy that can be supplied directly from the immediate use stations, and the amount of energy that can be provided from storage from the energy storage stations, and the amount of energy expected to be used and withdrawn so as to maintain a predetermined amount of energy in storage.<\/span>",
+              "claimNumber": 4,
+              "claimNumberAsFiled": 4,
+              "currentClaimNumber": 4,
+              "claimId": 20004,
+              "documentId": 2004,
+              "reexam": true,
+              "status": {
+                "code": "ACTIVE"
+              },
+              "childNumbers": [
+                
+              ],
+              "selected": false,
+              "independent": false,
+              "dispositions": [
+                
+              ],
+              "caseNumber": "12002448",
+              "group": "Application Prosecution"
+            },
+            "children": [
+              
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">The delivery schedule takes into account when the wind power availability into storage is substantially equal to the demand for wind generated power out of storage, when the wind power availability into storage is greater than the demand for wind generated power out of storage, and when the wind power availability into storage is less than the demand for wind generated power out of storage.<\/span>",
+      "claimNumber": 6,
+      "claimNumberAsFiled": 6,
+      "currentClaimNumber": 6,
+      "claimId": 20006,
+      "documentId": 2006,
+      "reexam": true,
+      "status": {
+        "code": "ACTIVE"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      
+    ]
+  },
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">The method comprises providing a predetermined number of hybrid windmill stations dedicated to providing energy for immediate use and\/or storage, and using the hybrid stations to supplement the number of stations that are in operation.<\/span>",
+      "claimNumber": 7,
+      "claimNumberAsFiled": 7,
+      "currentClaimNumber": 7,
+      "claimId": 20007,
+      "documentId": 2007,
+      "reexam": true,
+      "status": {
+        "code": "ACTIVE"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimNumber": 8,
+          "claimId": 20008,
+          "reexam": true,
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">Said remote location is provided with pneumatically driven equipment, and the compressed air energy in said pipeline is released at said remote location to drive said pneumatically driven equipment without having to convert the compressed air energy into electricity first.<\/span>",
+      "claimNumber": 9,
+      "claimNumberAsFiled": 9,
+      "currentClaimNumber": 9,
+      "claimId": 20009,
+      "documentId": 2009,
+      "reexam": true,
+      "status": {
+        "code": "ACTIVE"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      
+    ]
+  },
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">A method of coordinating and stabilizing the delivery of wind generated power, comprising: <\/span><span class=\"claimFragment\">using at least one windmill station having a compressor capable of storing compressed air energy; <\/span><span class=\"claimFragment\">storing said compressed air energy in a pipeline capable of distributing said compressed air energy to a remote location; <\/span><span class=\"claimFragment\">preparing an energy delivery schedule based on predictions for wind speed and wind power availability levels at said windmill station utilizing energy derived from storage; <\/span><span class=\"claimFragment\">and using the delivery schedule to enable a substantially constant power output to be provided at said remote location for providing power to pneumatically driven equipment, without having to convert the compressed air energy into electricity first, and despite fluctuations and oscillations in wind speed and wind power availability levels.<\/span>",
+      "claimNumber": 10,
+      "claimNumberAsFiled": 10,
+      "currentClaimNumber": 10,
+      "claimId": 20010,
+      "documentId": 2010,
+      "reexam": true,
+      "status": {
+        "code": "AMENDED",
+        "description": "Amended claim"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "The method of claim 10, wherein the method comprises forecasting or obtaining a forecast of wind speed conditions and using the forecast to predict the wind speed conditions and the resulting wind power availability levels for the upcoming period of time.",
+          "claimNumber": 11,
+          "claimNumberAsFiled": 11,
+          "currentClaimNumber": 11,
+          "claimId": 20011,
+          "documentId": 2011,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          {
+            "data": {
+              "watches": {
+                
+              },
+              "claimText": "<span class=\"claimFragment\">The method of claim 11, wherein the method comprises at least one feature taken from the group consisting of: <\/span><span class=\"claimFragment\">a. wherein the upcoming period of time is the next 24 hour period; <\/span><span class=\"claimFragment\">and b. wherein energy is stored as compressed air energy, and the delivery schedule is set or designed to be set based on the forecasts so that the amount of pressure in storage at any given time will not exceed 600 psig or go below 100 psig.<\/span>",
+              "claimNumber": 12,
+              "claimNumberAsFiled": 12,
+              "currentClaimNumber": 12,
+              "claimId": 20012,
+              "documentId": 2012,
+              "reexam": true,
+              "status": {
+                "code": "ACTIVE"
+              },
+              "childNumbers": [
+                
+              ],
+              "selected": false,
+              "independent": false,
+              "dispositions": [
+                
+              ],
+              "caseNumber": "12002448",
+              "group": "Application Prosecution"
+            },
+            "children": [
+              
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "The method of claim 10, wherein said at least one windmill station comprises a predetermined number of immediate use stations, and a predetermined number of energy storage stations, and the delivery schedule takes into account the amount of energy that can be supplied directly from the immediate use stations, and the amount of energy that can be provided from storage from the energy storage stations, so as to maintain a predetermined amount of power in storage.",
+          "claimNumber": 13,
+          "claimNumberAsFiled": 13,
+          "currentClaimNumber": 13,
+          "claimId": 20013,
+          "documentId": 2013,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      },
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "The method of claim 10, wherein the delivery schedule is set so that the amount of energy in storage at the end of the upcoming period of time is equal to or greater than the amount of energy in storage at the beginning of the upcoming period of time.",
+          "claimNumber": 14,
+          "claimNumberAsFiled": 14,
+          "currentClaimNumber": 14,
+          "claimId": 20014,
+          "documentId": 2014,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "watches": {
+        
+      },
+      "claimText": "<span class=\"claimFragment\">A method of coordinating and stabilizing the delivery of power to a remote facility, comprising: <\/span><span class=\"claimFragment\">using a power source having a compressor capable of storing compressed air energy; <\/span><span class=\"claimFragment\">storing said compressed air energy in a pipeline capable of distributing said compressed air energy to said remote facility; <\/span><span class=\"claimFragment\">preparing an energy delivery schedule based on the amount of energy derived from storage and using the delivery schedule to enable a substantially constant power output to be provided at said remote facility, for providing power to drive pneumatically driven equipment at said remote facility, without having to convert the compressed air energy into electricity first.<\/span>",
+      "claimNumber": 15,
+      "claimNumberAsFiled": 15,
+      "currentClaimNumber": 15,
+      "claimId": 20015,
+      "documentId": 2015,
+      "reexam": true,
+      "status": {
+        "code": "ACTIVE"
+      },
+      "childNumbers": [
+        
+      ],
+      "selected": false,
+      "independent": true,
+      "dispositions": [
+        
+      ],
+      "caseNumber": "12002448",
+      "group": "Application Prosecution"
+    },
+    "children": [
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "The method of claim 15, wherein the method comprises setting no more than seven constant power output periods during any given 24 hour period.",
+          "claimNumber": 16,
+          "claimNumberAsFiled": 16,
+          "currentClaimNumber": 16,
+          "claimId": 20016,
+          "documentId": 2016,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      },
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "<span class=\"claimFragment\"><span class=\"boundaryData\">12\/000,217&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;1&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PP\/1-22278\/P5cg&nbsp;c&nbsp;2069<\/span><\/span>The method of claim 15, wherein the power source comprises at least one windmill station having a compressor for providing compressed air energy into said pipeline.",
+          "claimNumber": 17,
+          "claimNumberAsFiled": 17,
+          "currentClaimNumber": 17,
+          "claimId": 20017,
+          "documentId": 2017,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          
+        ]
+      },
+      {
+        "data": {
+          "watches": {
+            
+          },
+          "claimText": "The method of claim 17, wherein the delivery schedule is based on forecasts of wind speed conditions and used to predict the wind speed<span class=\"claimFragment\"><span class=\"boundaryData\">12\/000,217&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;2&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PP\/1-22278\/P5cg&nbsp;c&nbsp;2069<\/span><\/span>conditions and the resulting wind power availability levels for the upcoming period of time.",
+          "claimNumber": 18,
+          "claimNumberAsFiled": 18,
+          "currentClaimNumber": 18,
+          "claimId": 20018,
+          "documentId": 2018,
+          "reexam": true,
+          "status": {
+            "code": "ACTIVE"
+          },
+          "childNumbers": [
+            
+          ],
+          "selected": false,
+          "independent": false,
+          "dispositions": [
+            
+          ],
+          "caseNumber": "12002448",
+          "group": "Application Prosecution"
+        },
+        "children": [
+          {
+            "data": {
+              "watches": {
+                
+              },
+              "claimNumber": 19,
+              "claimId": 20019,
+              "reexam": true,
+              "selected": false,
+              "independent": false,
+              "dispositions": [
+                
+              ],
+              "caseNumber": "12002448",
+              "group": "Application Prosecution"
+            },
+            "children": [
+              
+            ]
+          },
+          {
+            "data": {
+              "watches": {
+                
+              },
+              "claimNumber": 20,
+              "claimId": 20020,
+              "reexam": true,
+              "selected": false,
+              "independent": false,
+              "dispositions": [
+                
+              ],
+              "caseNumber": "12002448",
+              "group": "Application Prosecution"
+            },
+            "children": [
+              
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
